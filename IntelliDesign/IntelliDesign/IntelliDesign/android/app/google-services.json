@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "490882191861",
+    "project_id": "intellidesign-c757d",
+    "storage_bucket": "intellidesign-c757d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490882191861:android:49dac8325f4162235550bc",
+        "android_client_info": {
+          "package_name": "com.example.intellidesign"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpqhi_i4oocBH4g0fNcLkoKOPui92Ke4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
